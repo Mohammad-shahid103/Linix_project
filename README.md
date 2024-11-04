@@ -1,1 +1,1 @@
-# Linix_project
+# Linux_project
